@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pratap Neaupane</h1>
+<h3 align="center">A passionate Backend Developer from Nepal</h3>
 
 <!--
 **pratapnea/pratapnea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
