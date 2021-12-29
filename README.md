@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pratap Neaupane</h1>
 <h3 align="center">A passionate Backend Developer from Nepal</h3>
 
+
+- 🌱 I’m currently learning **Spring framework of Java**
+
+- 👨‍💻 All of my projects are available at [github.com/pratapnea](github.com/pratapnea)
+
+- 💬 Ask me about **Java and Backend Technologies**
+
+- 📫 How to reach me **sereversion@gmail.com**
+
 <!--
 **pratapnea/pratapnea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
