@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Backend Technologies and Security**
 
-- 📫 How to reach me **pratapneaupane.com**
+- 📫 How to reach me? Visit [pratapneaupane.com](**pratapneaupane.com**)
 
 
 <h3 align="left">Connect with me:</h3>
