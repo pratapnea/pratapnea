@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Backend Developer from Nepal</h3>
 
 
-- 🌱 I’m currently learning **Spring framework of Java**
+- 🌱 I’m currently learning **Tech**
 
 - 👨‍💻 All of my projects are available at [github.com/pratapnea](github.com/pratapnea)
 
-- 💬 Ask me about **Java and Backend Technologies**
+- 💬 Ask me about **Backend Technologies and Security**
 
-- 📫 How to reach me **sereversion@gmail.com**
+- 📫 How to reach me **pratapneaupane.com**
 
 
 <h3 align="left">Connect with me:</h3>
