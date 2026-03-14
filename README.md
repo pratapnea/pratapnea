@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratap Neaupane</h1>
-<h3 align="center">A passionate Backend Developer from Nepal</h3>
+<h3 align="center">A passionate Backend Developer and Cyber Security Professional</h3>
 
 
-- 🌱 I’m currently learning **Tech**
+- 🌱 I’m currently learning **Technologies**
 
 - 👨‍💻 All of my projects are available at [github.com/pratapnea](github.com/pratapnea)
 
